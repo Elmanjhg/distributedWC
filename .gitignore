@@ -1,0 +1,7 @@
+# Ignore all .txt files
+*.txt
+
+
+# keep these
+!README.md
+
