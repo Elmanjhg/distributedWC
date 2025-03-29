@@ -3,7 +3,7 @@
 ## Overview
 A C++ distributed word counting system using ZeroMQ for parallel text file processing
 and trying communicating via sockets in c++ with zmq. As there is still a lot of room
-for improvement it might be adjusted in the future.
+for improvement, it might be adjusted in the future.
 
 ## Requirements
 - ZeroMQ library
